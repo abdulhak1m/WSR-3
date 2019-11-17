@@ -1,0 +1,14 @@
+G:\WinFormApp (Сентябрь)\Подготовка_к_WSR\Подготовка к WSR_3\bin\Release\Подготовка к WSR_3.exe.config
+G:\WinFormApp (Сентябрь)\Подготовка_к_WSR\Подготовка к WSR_3\bin\Release\Подготовка к WSR_3.exe
+G:\WinFormApp (Сентябрь)\Подготовка_к_WSR\Подготовка к WSR_3\bin\Release\Подготовка к WSR_3.pdb
+G:\WinFormApp (Сентябрь)\Подготовка_к_WSR\Подготовка к WSR_3\obj\Release\Подготовка к WSR_3.csprojAssemblyReference.cache
+G:\WinFormApp (Сентябрь)\Подготовка_к_WSR\Подготовка к WSR_3\obj\Release\Подготовка_к_WSR_3.Properties.Resources.resources
+G:\WinFormApp (Сентябрь)\Подготовка_к_WSR\Подготовка к WSR_3\obj\Release\Подготовка к WSR_3.csproj.GenerateResource.cache
+G:\WinFormApp (Сентябрь)\Подготовка_к_WSR\Подготовка к WSR_3\obj\Release\Подготовка к WSR_3.exe
+G:\WinFormApp (Сентябрь)\Подготовка_к_WSR\Подготовка к WSR_3\obj\Release\Подготовка к WSR_3.pdb
+G:\WinFormApp (Сентябрь)\Подготовка_к_WSR\Подготовка к WSR_3\bin\Release\Bunifu_UI_v1.52.dll
+G:\WinFormApp (Сентябрь)\Подготовка_к_WSR\Подготовка к WSR_3\obj\Release\Подготовка_к_WSR_3.Start.resources
+G:\WinFormApp (Сентябрь)\Подготовка_к_WSR\Подготовка к WSR_3\obj\Release\Подготовка к WSR_3.csproj.CopyComplete
+G:\WinFormApp (Сентябрь)\Подготовка_к_WSR\Подготовка к WSR_3\obj\Release\Подготовка_к_WSR_3.Бегун.Runner.resources
+G:\WinFormApp (Сентябрь)\Подготовка_к_WSR\Подготовка к WSR_3\obj\Release\Подготовка_к_WSR_3.Бегун.NewRunner.resources
+G:\WinFormApp (Сентябрь)\Подготовка_к_WSR\Подготовка к WSR_3\obj\Release\Подготовка_к_WSR_3.Общее.Login.resources
